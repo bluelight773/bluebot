@@ -1,0 +1,8 @@
+Flask==0.10.1
+future==0.16.0
+pip==9.0.1
+maya==0.3.2
+ipython==6.1.0
+q==2.6
+gspread==0.6.2
+oauth2client==4.1.0
